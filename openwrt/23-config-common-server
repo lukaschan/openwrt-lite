@@ -177,6 +177,7 @@ CONFIG_PACKAGE_xfs-growfs=y
 CONFIG_PACKAGE_xfs-mkfs=y
 CONFIG_PACKAGE_xz-utils=y
 CONFIG_PACKAGE_xz=y
+CONFIG_PACKAGE_yq=y
 CONFIG_PACKAGE_zip=y
 CONFIG_PACKAGE_zoneinfo-asia=y
 
